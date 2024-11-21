@@ -33,7 +33,7 @@ function App() {
           >
             <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-purple-600/20" />
             <img
-              src="YOUR_QR_CODE_URL_HERE"
+              src="qr.png"
               alt="Telegram Bot QR Code"
               className="w-64 h-64 mx-auto relative z-10"
             />
